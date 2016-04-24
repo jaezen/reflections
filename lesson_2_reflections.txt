@@ -1,0 +1,4 @@
+Q1 - What happens when you initialize a repository? Why do you need to do it?
+    When I initialize a new repository it creates a .git folder which contains meta data about the changes I've made e.g. commit records
+    When I start a new one, I need to do git init then git status to see what's inside it
+    

@@ -1,0 +1,30 @@
+Q1: How did viewing a diff between two versions of a file help you see the bug that was introduced?
+    Using diff showed me only what changed between the 2 files 
+    I could then eyeball something that looked mis-spelled (the bug)
+    Without diff it would take a long time to eyeball what is wrong
+
+Q2: How could having easy access to the entire history of a file make you a more efficient        programmer in the long term?
+    You can learn how to make code better as you go e.g. where to make something shorter
+
+Q3: What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+    Pros
+        - I can decide what a logical change to save is
+        - Manually saving in Git means that there's not an unwiedldy amount of versions saved
+        - Manually saving means I can describe what the change is
+        
+    Cons
+        - I might forget to make a commit and then get lost when I wait too long to make one
+
+Q4: Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+    Saving multiple files in one repo in one commit means that you can jump to any commit and work on that set of files rather than finding one file and go back to other versions of other files 
+
+Q5: How can you use the commands git log and git diff to view the history of files?
+- git log helps me find all the commits that have been made. I can search for a certain commit with keywords e.g. revert or updated color
+- git diff helps me narrow down the changes in code between 2 commits. Green shows what's added, red shows me what's been deleted. This is an easy eay to visually see what changed between 2 commits. 
+
+Q6: How might using version control make you more confident to make changes that could break something?
+    I know I can revert back to an older version with no bugs and go from there or I can find the bug and fix it
+    
+Q7: Now that you have your workspace set up, what do you want to try using Git for?
+    I want to make my OD app
+    
