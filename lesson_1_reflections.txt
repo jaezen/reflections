@@ -30,4 +30,7 @@ Q7: Now that you have your workspace set up, what do you want to try using Git f
 
 Q8: Testing git commit
 
+Adding next text to test git commit
+
+
     
