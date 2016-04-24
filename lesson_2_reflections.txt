@@ -6,4 +6,4 @@ Q2 - How is the staging area different from the working directory and the reposi
     The staging area is different to the working directory in that it acts as a mid-way point to choose what to add into a commit before you actually do it. 
     It acts as a logical separation in case you want to revert files you want to addd to the commit
 
-    **Does this appear in the commit?**
+    this is a new commit
