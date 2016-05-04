@@ -3,3 +3,10 @@ local?
 
 A remote repository is useful if you or someone else needs to access the files from anywhere to see or work on them. 
 If all the files were local, they may be lost if the computer breaks or you lose your computer. 
+
+Q2 - Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+A fork is a Github term to describe cloning a repository from someone else's github repo
+A clone is when you want to clone a repo from one computer to another
+A branch is when you want to create a new set of code to test new ideas, it allows you to go back to an old branch or make it the new master if you are happy with the new code. 
+
