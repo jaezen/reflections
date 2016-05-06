@@ -13,3 +13,8 @@ A branch is when you want to create a new set of code to test new ideas, it allo
 Q3 - What is the benefit of having a copy of the last known state of the remote stored locally?
 
 Having a copy of the last known state of the remote locally means you can work on the code offline anytime, anywhere and then merge it back to the master when you're back online. 
+
+Q4 - How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I would collaborate with Git and Github with developers that are not always together. I could use Github to pull code to play with into my local computer then make changes. I could also fork whole repos from Github to play with. 
+
+Keeping different versions of code separate and easily trackable makes things easy. But remembering or following what is pulled, pushed, forked or merged can get confusing. I don't see why you would use this for non-code projects. 
